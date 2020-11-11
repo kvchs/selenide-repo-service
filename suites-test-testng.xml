@@ -4,19 +4,13 @@
     <test name="Test One">
         <parameter name="test-name" value="Test One"/>
         <classes>
-            <class name="com.cn.DemoTest" />
+            <class name="com.cn.demo.ParallelSuiteTest" />
         </classes>
     </test>
     <test name="Test Two">
         <parameter name="test-name" value="Test Two"/>
         <classes>
-            <class name="com.cn.DemoTest" />
-        </classes>
-    </test>
-
-    <test name="Test Three">
-        <classes>
-            <class name="com.cn.demo.RunningDemoTest"/>
+            <class name="com.cn.demo.ParallelSuiteTest" />
         </classes>
     </test>
 </suite>
