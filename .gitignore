@@ -2,3 +2,4 @@
 /target/
 .allure
 .idea
+selenide-repo-service.iml
